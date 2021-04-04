@@ -68,6 +68,6 @@ while user_input != "exit":
         # print(type(num_of_days_element))
         validate_and_execute()
 # my_var = days_to_units(user_input)
-# print(my_var)
+print(my_var)
 
 
